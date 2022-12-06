@@ -1,0 +1,397 @@
+.background {
+    background-color: #c7bca16e;
+
+}
+
+
+.div1 {
+    position: absolute;
+    height: 700px;
+    width: 1800px;
+    top: 200px;
+    left: 50px;
+    background-color: #c2f7f85d;
+    box-shadow: -100px 180px 1000px 200px #c2f7f85d;
+    border-radius: 8px;
+
+}
+
+
+
+.div2 {
+
+    position: absolute;
+    bottom: 80px;
+    height: 500px;
+    width: 50%;
+    left: 800px;
+
+}
+
+
+.d-flex {
+    position: absolute;
+    height: 500px;
+    width: 1000px;
+    left: 100px;
+    top: 200px;
+}
+
+
+
+.bottom {
+
+    position: absolute;
+    height: 800px;
+    width: 1800px;
+    top: 1100px;
+    left: 50px;
+
+}
+
+
+
+.who {
+
+    position: relative;
+    bottom: 95%;
+    width: 400px;
+    bottom: 750px;
+    display: inline-block;
+}
+
+
+.who-det {
+
+    position: relative;
+    display: inline-block;
+    width: 900px;
+    height: 610px;
+    right: 480px;
+    bottom: 620px;
+
+
+}
+
+
+
+.skills {
+
+    position: relative;
+    display: inline-block;
+    height: 510px;
+    width: 570px;
+    bottom: 1300px;
+    left: 1199px;
+
+
+}
+
+.horizontal {
+
+    position: relative;
+    display: inline-block;
+    width: 4%;
+    height: 100%;
+    left: 40%;
+
+}
+
+
+
+.navbar {
+
+    position: absolute;
+    width: 100%;
+    top: -15px;
+}
+
+.btn-about {
+
+    position: relative;
+    display: inline-block;
+    top: 10px;
+    left: 880px;
+    height: 60px;
+    width: 120px;
+    border: none;
+    scroll-behavior: smooth;
+
+
+
+}
+
+.btn-projects {
+
+    position: relative;
+    display: inline-block;
+    top: 10px;
+    left: 430px;
+    height: 60px;
+    width: 120px;
+    border: none;
+
+
+
+}
+
+.btn-contact {
+
+    position: relative;
+    top: 10px;
+    right: 20px;
+    height: 60px;
+    width: 120px;
+    border: none;
+
+}
+
+
+
+.navbar-name {
+    position: relative;
+    font-family: 'Merriweather', serif;
+    left: 25px;
+    top: 10px;
+}
+
+.btn-c {
+    width: 100px;
+    font-family: 'Varela Round', sans-serif;
+
+
+}
+
+.btn-java {
+    position: relative;
+    width: 100px;
+    left: 2px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-python {
+    position: relative;
+    width: 130px;
+    left: 5px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-html {
+
+    position: relative;
+    width: 100px;
+    right: 340px;
+    top: 55px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-css {
+
+    position: relative;
+    width: 100px;
+    top: 55px;
+    right: 336px;
+    font-family: 'Varela Round', sans-serif;
+
+
+}
+
+.btn-bootstrap {
+    position: absolute;
+    width: 150px;
+    top: 55px;
+    left: 215px;
+}
+
+.btn-sql {
+    position: relative;
+    width: 80px;
+    left: 349px;
+    bottom: 48px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-linux {
+    position: absolute;
+    width: 90px;
+    top: 110px;
+    left: 0px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-security {
+    position: absolute;
+    width: 210px;
+    top: 164px;
+    left: 0px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+
+.btn-osint {
+
+    position: absolute;
+    width: 140px;
+    top: 164px;
+    right: 213px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-research {
+
+    position: absolute;
+    width: 250px;
+    top: 110px;
+    left: 97px;
+    font-family: 'Varela Round', sans-serif;
+
+
+}
+
+.btn-git {
+
+    position: relative;
+    left: 353px;
+    bottom: 48px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.btn-networking {
+    position: absolute;
+    width: 300px;
+    top: 217px;
+    left: 0px;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.line1 {
+
+    position: relative;
+    padding: 20px;
+    right: 20px;
+    height: 100px;
+    font-family: 'Merriweather', serif;
+
+}
+
+.line2 {
+    line-height: 1.5;
+}
+
+.more {
+
+    position: relative;
+    font-famly: Mons;
+}
+
+.hi {
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+
+.image {
+    filter: brightness(10%);
+    filter: blur(38px);
+    -webkit-filter: blur(18px);
+
+}
+
+.btn-test {
+
+    position: absolute;
+
+}
+
+.col1 {
+    color: #f39c9cd5;
+    height: 100px;
+}
+
+.mb-top {
+
+
+    position: relative;
+    bottom: 1300px;
+    height: 10%;
+    width: 50%;
+    font-famly: Mons;
+    font-size: 25px;
+
+}
+
+
+.form-control-2 {
+    background-color: rgba(68, 71, 71, 0.06);
+    position: absolute;
+    top: 60px;
+    width: 150%;
+    left: 0px;
+    border-color: transparent;
+}
+
+.mb-bottom {
+
+    position: absolute;
+    bottom: 90px;
+    height: 5%;
+    width: 30%;
+    font-famly: Mons;
+    font-size: 25px;
+}
+
+.btn-submit {
+    background-color: rgba(68, 71, 71, 0.061);
+    position: relative;
+    bottom: 1080px;
+    height: auto;
+    background-color: rgba(128, 128, 128, 0.097);
+    border-color: transparent;
+
+}
+
+.bottom {
+
+    position: absolute;
+    top: 100%;
+    height: 90%;
+
+}
+
+.form-control-1 {
+    background-color: rgba(68, 71, 71, 0.061);
+    position: absolute;
+    top: 60px;
+    width: 30%;
+    left: 0px;
+    font-famly: Mons;
+    border-color: transparent;
+
+
+
+}
+
+
+
+.col-12 {
+
+    position: absolute;
+    top: 2000px;
+}
+
+.contact-me {
+
+    position: absolute;
+    width: 400px;
+    bottom: 300px;
+    left: 1px;
+    display: inline-block;
+}
